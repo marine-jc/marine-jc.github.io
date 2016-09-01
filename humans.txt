@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Marine Lupiac -- Chief Happiness Officer -- @marinelupiac
+    Jc Bohin -- Chief Hedonist Officer -- @bohinjc
+
+# THANKS
+
+    To our wonderfull and super-heroic Maids of Honor and Best Mens
+    To all our friends
+    To our family
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Modernizr
